@@ -34,7 +34,7 @@ Acknowledged by Vertiv Product Security Team for responsible disclosure, researc
 
 ---
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white) 
