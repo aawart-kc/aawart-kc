@@ -16,14 +16,6 @@
 </ul>
   </div>
 
-  <div style="flex: 0 0 120px; margin-left: 20px; position: relative;">
-    <img src="https://blog.aawart.com.np/images/profile.png" 
-         alt="Profile Picture" 
-         width="120" 
-         height="120"
-         style="border-radius:50%; object-fit:cover; z-index:2;">
-  </div>
-
 </div>
 
 ---
