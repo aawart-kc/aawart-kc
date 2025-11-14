@@ -30,6 +30,11 @@ Hall of Fame recognition for responsible disclosures.
 Acknowledged by Vertiv Product Security Team for responsible disclosure, research, and bug hunting.
 </details>
 
+<details>
+<summary>Zurich Insurance</summary>
+Got recognized by Zurich Insurance, one of the world’s leading multi-line insurance companies for a security report I submitted.
+</details>
+
 - [More recognitions unlocking soon…]
 
 ---
