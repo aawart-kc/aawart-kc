@@ -35,6 +35,11 @@ Acknowledged by Vertiv Product Security Team for responsible disclosure, researc
 Got recognized by Zurich Insurance, one of the world’s leading multi-line insurance companies for a security report I submitted.
 </details>
 
+<details>
+<summary>Cochise County IT</summary>
+Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
+</details>
+
 - [More recognitions unlocking soon…]
 
 ---
