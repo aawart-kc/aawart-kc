@@ -32,7 +32,7 @@ Acknowledged by Vertiv Product Security Team for responsible disclosure, researc
 
 <details>
 <summary>Zurich Insurance</summary>
-Got recognized by Zurich Insurance, one of the world’s leading multi-line insurance companies for a security report I submitted.
+Got recognized and listed on Zurich Insurance’s HackerOne recognition list for a security report I submitted.
 </details>
 
 <details>
