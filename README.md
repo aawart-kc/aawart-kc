@@ -22,12 +22,7 @@
 
 <details>
 <summary>Cisco</summary>
-Hall of Fame recognition for responsible disclosures.
-</details>
-
-<details>
-<summary>Vertiv</summary>
-Acknowledged by Vertiv Product Security Team for responsible disclosure, research, and bug hunting.
+Hall of Fame recognition for 10+ responsible disclosures.
 </details>
 
 <details>
@@ -36,6 +31,16 @@ Got recognized and listed on Zurich Insurance’s HackerOne recognition list for
 </details>
 
 <details>
+<summary>U.S. Department of Veterans Affairs </summary>
+Hall of Fame recognition for responsible disclosures.
+</details>
+
+<details>
+<summary>Vertiv</summary>
+Acknowledged by Vertiv Product Security Team for responsible disclosure, research, and bug hunting.
+</details>
+
+<details> 
 <summary>Cochise County IT</summary>
 Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
 </details>
