@@ -25,6 +25,11 @@
 Hall of Fame recognition for 10+ responsible disclosures.
 </details>
 
+<details> 
+<summary>Mercedes-Benz </summary>
+Got recognized in the Mercedes-Benz Hall of Fame for responsible disclosure.
+</details>
+
 <details>
 <summary>Zurich Insurance</summary>
 Got recognized and listed on Zurich Insurance’s HackerOne recognition list for a security report I submitted.
