@@ -55,8 +55,6 @@ Acknowledged by Vertiv Product Security Team for responsible disclosure, researc
 Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
 </details>
 
-- [More recognitions unlocking soon…]
-
 ---
 
 ## Tech & Tools
