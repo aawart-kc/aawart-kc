@@ -30,6 +30,11 @@ Got recognized in the NASA Hall of Fame for responsible disclosure.
 Hall of Fame recognition for 10+ responsible disclosures.
 </details>
 
+<details>
+<summary>Lenovo/summary>
+Got recognized in Lenovo Hall of Fame for responsible disclosure.
+</details>
+
 <details> 
 <summary>Mercedes-Benz </summary>
 Got recognized in the Mercedes-Benz Hall of Fame for responsible disclosure.
