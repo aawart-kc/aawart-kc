@@ -31,7 +31,7 @@ Hall of Fame recognition for 10+ responsible disclosures.
 </details>
 
 <details>
-<summary>Lenovo/summary>
+<summary>Lenovo</summary>
 Got recognized in Lenovo Hall of Fame for responsible disclosure.
 </details>
 
