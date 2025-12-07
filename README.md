@@ -36,8 +36,13 @@ Got recognized in Lenovo Hall of Fame for responsible disclosure.
 </details>
 
 <details> 
-<summary>Mercedes-Benz </summary>
+<summary>Mercedes-Benz</summary>
 Got recognized in the Mercedes-Benz Hall of Fame for responsible disclosure.
+</details>
+
+<details> 
+<summary>New Balance (NB)</summary>
+Got recognized in the NB Hall of Fame for responsible disclosure.
 </details>
 
 <details>
@@ -46,7 +51,7 @@ Got recognized and listed on Zurich Insurance’s HackerOne recognition list for
 </details>
 
 <details>
-<summary>U.S. Department of Veterans Affairs </summary>
+<summary>U.S. Department of Veterans Affairs</summary>
 Hall of Fame recognition for responsible disclosures.
 </details>
 
