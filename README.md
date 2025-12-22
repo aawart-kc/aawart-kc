@@ -63,7 +63,7 @@ Got recognized and listed on City of Los Angeles HackerOne recognition list for 
 <details>
 <summary>Vertiv</summary>
 Acknowledged by Vertiv Product Security Team for responsible disclosure, research, and bug hunting.
-</details>City of Los Angeles
+</details>
 
 <details> 
 <summary>Cochise County IT</summary>
