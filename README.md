@@ -56,9 +56,14 @@ Hall of Fame recognition for responsible disclosures.
 </details>
 
 <details>
+<summary>City of Los Angeles</summary>
+Got recognized and listed on City of Los Angeles HackerOne recognition list for a security report I submitted.
+</details>
+
+<details>
 <summary>Vertiv</summary>
 Acknowledged by Vertiv Product Security Team for responsible disclosure, research, and bug hunting.
-</details>
+</details>City of Los Angeles
 
 <details> 
 <summary>Cochise County IT</summary>
