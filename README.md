@@ -36,8 +36,9 @@ Got recognized in Lenovo Hall of Fame for responsible disclosure.
 </details>
 
 <details> 
-<summary>Mercedes-Benz</summary>
-Got recognized in the Mercedes-Benz Hall of Fame for responsible disclosure.
+<summary>Red Hat</summary>
+Got recognized in the Red Hat Hall of Fame for responsible disclosure.
+  Check Here: https://access.redhat.com/articles/66234
 </details>
 
 <details> 
