@@ -57,8 +57,13 @@ Hall of Fame recognition for responsible disclosures.
 </details>
 
 <details>
-<summary>City of Los Angeles</summary>
-Got recognized and listed on City of Los Angeles HackerOne recognition list for a security report I submitted.
+<summary>F5</summary>
+Got recognized and listed on F5 recognition list for a security report I submitted.
+</details>
+
+<details> 
+<summary>Cochise County IT</summary>
+Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
 </details>
 
 <details>
