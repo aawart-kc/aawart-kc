@@ -56,6 +56,11 @@ Got recognized and listed on Zurich Insurance’s HackerOne recognition list for
 Hall of Fame recognition for responsible disclosures.
 </details>
 
+<details> 
+<summary>WHO</summary>
+Got recognized and listed on World Health Organization recognition list for a security report I submitted.
+</details>
+
 <details>
 <summary>F5</summary>
 Got recognized and listed on F5 recognition list for a security report I submitted.
