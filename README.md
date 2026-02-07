@@ -35,6 +35,11 @@ Hall of Fame recognition for 10+ responsible disclosures.
 Got recognized in Lenovo Hall of Fame for responsible disclosure.
 </details>
 
+<details>
+<summary>Sony</summary>
+Got recognized and listed on Sony's HackerOne recognition list for a security report I submitted and also got swag.
+</details>
+
 <details> 
 <summary>Red Hat</summary>
 Got recognized in the Red Hat Hall of Fame for responsible disclosure.
