@@ -53,7 +53,7 @@ Got recognized in the NB Hall of Fame for responsible disclosure.
 
 <details>
 <summary>Zurich Insurance</summary>
-Got recognized and listed on Zurich Insurance’s HackerOne recognition list for a security report I submitted.
+Got recognized and listed on Zurich Insurance’s HackerOne recognition list for a security reports I submitted.
 </details>
 
 <details>
@@ -72,9 +72,25 @@ Got recognized and listed on F5 recognition list for a security report I submitt
 </details>
 
 <details> 
-<summary>Cochise County IT</summary>
-Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
+<summary>Merck & Co., Inc., Rahway, NJ, USA</summary>
+Got recognized and listed on Merck & Co., Inc., Rahway, NJ, USA HackerOne recognition list for a security report I submitted.
 </details>
+
+<details>
+<summary>City of Los Angeles</summary>
+Got recognized and listed on City of Los Angeles HackerOne recognition list for a security reports I submitted.
+</details>
+
+<details>
+<summary>UPS</summary>
+Got recognized and listed on UPS HackerOne recognition list for a security reports I submitted.
+</details>
+
+<details>
+<summary>TD Bank Group</summary>
+Got recognized and listed on TD Bank Group HackerOne recognition list for a security reports I submitted.
+</details>
+
 
 <details>
 <summary>Vertiv</summary>
