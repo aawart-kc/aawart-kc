@@ -51,6 +51,21 @@ Got recognized in the Red Hat Hall of Fame for responsible disclosure.
 Got recognized in the NB Hall of Fame for responsible disclosure.
 </details>
 
+<details> 
+<summary>Expedia Group</summary>
+Hall of Fame recognition from Expedia Group for responsible disclosure, one of the world’s largest online travel companies
+</details>
+
+<details>
+<summary>F5</summary>
+Got recognized and listed on F5 recognition list for a security report I submitted.
+</details>
+
+<details> 
+<summary>WHO</summary>
+Got recognized and listed on World Health Organization recognition list for a security report I submitted.
+</details>
+
 <details>
 <summary>Zurich Insurance</summary>
 Got recognized and listed on Zurich Insurance’s HackerOne recognition list for a security reports I submitted.
@@ -62,23 +77,13 @@ Hall of Fame recognition for responsible disclosures.
 </details>
 
 <details> 
-<summary>WHO</summary>
-Got recognized and listed on World Health Organization recognition list for a security report I submitted.
-</details>
-
-<details>
-<summary>F5</summary>
-Got recognized and listed on F5 recognition list for a security report I submitted.
+<summary>U.S. Department of Commerce</summary>
+Recognized in the Hall of Fame of the United States Department of Commerce for responsible vulnerability disclosure, a leading U.S. agency for trade, technology, and innovation.
 </details>
 
 <details> 
-<summary>Merck & Co., Inc., Rahway, NJ, USA</summary>
-Got recognized and listed on Merck & Co., Inc., Rahway, NJ, USA HackerOne recognition list for a security report I submitted.
-</details>
-
-<details>
-<summary>City of Los Angeles</summary>
-Got recognized and listed on City of Los Angeles HackerOne recognition list for a security reports I submitted.
+<summary>QinetiQ</summary>
+Recognized by QinetiQ for responsible vulnerability disclosure, a leading defence and security technology company specializing in advanced engineering and innovation.
 </details>
 
 <details>
@@ -87,10 +92,19 @@ Got recognized and listed on UPS HackerOne recognition list for a security repor
 </details>
 
 <details>
+<summary>City of Los Angeles</summary>
+Got recognized and listed on City of Los Angeles HackerOne recognition list for a security reports I submitted, a modern and secure digital infrastructure providing centralized access to public services for residents, businesses, and visitors.
+</details>
+
+<details> 
+<summary>Merck & Co., Inc., Rahway, NJ, USA</summary>
+Got recognized and listed on Merck & Co., Inc., Rahway, NJ, USA HackerOne recognition list for a security report I submitted.
+</details>
+
+<details>
 <summary>TD Bank Group</summary>
 Got recognized and listed on TD Bank Group HackerOne recognition list for a security reports I submitted.
 </details>
-
 
 <details>
 <summary>Vertiv</summary>
@@ -102,6 +116,7 @@ Acknowledged by Vertiv Product Security Team for responsible disclosure, researc
 Got acknowledged by Cochise County IT, the governing body of Cochise County, Arizona, for a security report I submitted.
 </details>
 
+and 10+ private programs
 ---
 
 ## Tech & Tools
