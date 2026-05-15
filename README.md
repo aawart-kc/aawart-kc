@@ -41,7 +41,7 @@ Got recognized and listed on Sony's HackerOne recognition list for a security re
 </details>
 
 <details>
-<summary>PortSwigger Web Security</summary>
+<summary>PortSwigger</summary>
 Got recognized in PortSwigger Web Security Hall of Fame for responsible disclosure.
 </details>
 
