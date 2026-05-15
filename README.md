@@ -40,6 +40,11 @@ Got recognized in Lenovo Hall of Fame for responsible disclosure.
 Got recognized and listed on Sony's HackerOne recognition list for a security report I submitted and also got swag.
 </details>
 
+<details>
+<summary>PortSwigger Web Security</summary>
+Got recognized in PortSwigger Web Security Hall of Fame for responsible disclosure.
+</details>
+
 <details> 
 <summary>Red Hat</summary>
 Got recognized in the Red Hat Hall of Fame for responsible disclosure.
