@@ -26,6 +26,11 @@ Got recognized in the NASA Hall of Fame for responsible disclosure.
 </details>
 
 <details>
+<summary>Anthropic</summary>
+Recognized in Anthropic’s Hall of Fame for reporting a vulnerability.
+</details>
+
+<details>
 <summary>Cisco</summary>
 Hall of Fame recognition for 10+ responsible disclosures.
 </details>
