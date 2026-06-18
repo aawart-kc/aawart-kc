@@ -31,6 +31,11 @@ Recognized in Anthropic’s Hall of Fame for reporting a vulnerability.
 </details>
 
 <details>
+<summary>Paypal</summary>
+Recognized in Paypal Hall of Fame for reporting vulnerabilities.
+</details>
+
+<details>
 <summary>Cisco</summary>
 Hall of Fame recognition for 10+ responsible disclosures.
 </details>
