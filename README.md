@@ -36,6 +36,11 @@ Recognized in Paypal Hall of Fame for reporting vulnerabilities.
 </details>
 
 <details>
+<summary>Mastercard</summary>
+Recognized in Mastercard Hall of Fame for reporting vulnerabilities.
+</details>
+
+<details>
 <summary>Cisco</summary>
 Hall of Fame recognition for 10+ responsible disclosures.
 </details>
